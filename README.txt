@@ -1,4 +1,4 @@
-﻿Wdl Project
+﻿Wdl Mini Project
 
 free-educational-responsive-web-template-webEdu
 -------
